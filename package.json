@@ -1,0 +1,22 @@
+{
+  "name": "tictacteo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manishahsavari2006/tictacteo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manishahsavari2006/tictacteo/issues"
+  },
+  "homepage": "https://github.com/Manishahsavari2006/tictacteo#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
