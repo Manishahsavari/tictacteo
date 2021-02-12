@@ -1,7 +1,7 @@
 .box{
     height: 80px;
     width: 80px;
-    background-color: black;
+    background-color: red;
     text-align: center;
     font-family: sans-serif;
     font-weight: bold;
@@ -32,6 +32,6 @@ button:hover{
     cursor: pointer;
 }
 .tab-box{
-    border:10px dashed black;
+    border:10px dotted black;
     box-shadow: 3px 3px 15px grey;
 }
